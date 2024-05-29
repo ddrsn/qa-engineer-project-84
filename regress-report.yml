@@ -184,6 +184,7 @@ test-cases:
       Проверка адаптивной верстки
     status: fail
         
+ bugreports:
   - summary: |
       Не работает фильтрация товара по наличию в интернет-магазине
     environment: |
